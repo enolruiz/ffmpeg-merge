@@ -1,13 +1,12 @@
 {
   "name": "ffmpeg-merge",
   "version": "1.0.0",
-  "description": "Merge audio files with ffmpeg",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
-    "node-fetch": "^2.6.9"
+    "express": "^4.18.2"
   }
 }
